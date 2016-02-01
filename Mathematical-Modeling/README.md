@@ -1,3 +1,3 @@
-#Mathematial Modeling
+#Mathematical Modeling
 
 **under construction**
